@@ -1,0 +1,16 @@
+.body{
+	text-align: center;
+	padding-top: 170px;
+}
+.form input{
+	width: 250px;
+	height: 25px;
+}
+.button button{
+	background: #2bae66ff;
+	width: 120px;
+	height: 33px;
+	border: none;
+	margin-left: 70px;
+	color: #fff;
+}
